@@ -1,4 +1,4 @@
-Servo Motion,Servo Position,Flex Value,EMG Value,EMG Voltage,Time (msec)
+Servo Motion,Servo Position,Flex Value,EMG Value,EMG Voltage,Time
 Finger Closing,110,397,52,254.15,0
 Finger Closing,111,396,60,293.26,0.025
 Finger Closing,112,397,58,283.48,0.05
